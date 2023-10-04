@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<RuleTargetType>Full</RuleTargetType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+		<PackageReference Include="MongoDB.Driver" Version="2.17.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.22" />
+  </ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\GtMotive.Estimate.Microservice.Domain\GtMotive.Estimate.Microservice.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Data\" />
+	  <None Remove="UseCases\CreateVehicle\" />
+	  <None Remove="UseCases\RentingVehicle\" />
+	  <None Remove="UseCases\ReturnVehicle\" />
+	  <None Remove="UseCases\ReturnVehicle\Interfaces\" />
+	  <None Remove="UseCases\ShowVehicle\" />
+	  <None Remove="UseCases\ShowVehicle\Interfaces\" />
+	  <None Remove="stylecop.json" />
+	  <None Remove="UseCases\CreateVehicle\Interfaces\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Data\" />
+	  <Folder Include="UseCases\CreateVehicle\" />
+	  <Folder Include="UseCases\RentingVehicle\" />
+	  <Folder Include="UseCases\ReturnVehicle\" />
+	  <Folder Include="UseCases\ReturnVehicle\Interfaces\" />
+	  <Folder Include="UseCases\ShowVehicle\" />
+	  <Folder Include="UseCases\ShowVehicle\Interfaces\" />
+	  <Folder Include="UseCases\CreateVehicle\Interfaces\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <AdditionalFiles Include="stylecop.json" />
+	</ItemGroup>
+</Project>
