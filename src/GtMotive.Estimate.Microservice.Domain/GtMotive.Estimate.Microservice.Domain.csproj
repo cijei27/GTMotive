@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+      <RuleTargetType>Full</RuleTargetType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Renting\" />
+    <None Remove="Errors\" />
+    <None Remove="Errors\Errors.Renting" />
+    <None Remove="stylecop.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Renting\" />
+    <Folder Include="Errors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="stylecop.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="ErrorOr" Version="1.2.1" />
+  </ItemGroup>
+</Project>

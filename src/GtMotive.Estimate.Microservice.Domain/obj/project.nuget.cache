@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCg4vtzpwNZ/jzOj7SfiPNwGZdp94dJy8vjM91IsrcsylDNkWNArJ5ncKe9C4fpk5/PVgi4/V5rPpGEwGECYqw==",
+  "success": true,
+  "projectFilePath": "/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/GtMotive.Estimate.Microservice.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidramonchica/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/sonaranalyzer.csharp/8.42.0.51121/sonaranalyzer.csharp.8.42.0.51121.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/Users/davidramonchica/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

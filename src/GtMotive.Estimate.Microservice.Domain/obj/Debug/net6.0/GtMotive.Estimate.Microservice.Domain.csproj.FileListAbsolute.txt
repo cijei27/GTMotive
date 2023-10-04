@@ -1,0 +1,12 @@
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.deps.json
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.csproj.AssemblyReference.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.AssemblyInfoInputs.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.AssemblyInfo.cs
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.csproj.CoreCompileInputs.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/refint/GtMotive.Estimate.Microservice.Domain.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Domain/obj/Debug/net6.0/ref/GtMotive.Estimate.Microservice.Domain.dll
