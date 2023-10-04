@@ -1,0 +1,17 @@
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.deps.json
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.ApplicationCore.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.ApplicationCore.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/bin/Debug/net6.0/GtMotive.Estimate.Microservice.Domain.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.csproj.AssemblyReference.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.AssemblyInfoInputs.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.AssemblyInfo.cs
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.csproj.CopyComplete
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/refint/GtMotive.Estimate.Microservice.Infrastructure.dll
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/GtMotive.Estimate.Microservice.Infrastructure.pdb
+/Users/davidramonchica/Projects/hexagonal-architecture-doc/src/GtMotive.Estimate.Microservice.Infrastructure/obj/Debug/net6.0/ref/GtMotive.Estimate.Microservice.Infrastructure.dll
